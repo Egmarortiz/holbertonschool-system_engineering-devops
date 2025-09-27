@@ -1,5 +1,5 @@
 ## Web infrastructure design
-In this module we will draw diagrams based on web infrasturcuture design each task has its own design structure.
+In this module we will draw diagrams with the purpose of learning web infrasturcuture design, each task has unique mockup.
 
 ## Task 0:
 https://www.figma.com/design/wOX0gSfI6KEut2pVJGETp8/Task-0?t=LlKi2Gvn8nvqE5RY-1
